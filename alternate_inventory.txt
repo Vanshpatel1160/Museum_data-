@@ -1,0 +1,57 @@
+Artist: Monet
+Created: 5/15/1990
+Acquired: 3/22/2010
+Donated By: Louvre
+Description: Water Lilies
+Mediam: Oil
+ Dimensions: 4ft x3 ft 
+Value: $420.00
+
+Artist: Rodin
+Created: 5/15/1990
+Acquired: 3/22/2010
+Donated By: Paris Museum
+Description: The Thinker
+Mediam: Metal
+ Dimensions(W*H*D): 2ft x 2ft x 1ft
+Weight: 800kg
+Value: $617.29
+
+Artist: Anna Pavlova
+Created: 5/15/1990
+Acquired: 3/22/2010
+Donated By: Ballet Company
+Description: The Dying Swan
+Performed By: Solo
+Length: 2.00 hours 45.00 minutes
+Value: $1.60
+
+Artist: James Cameron
+Created: 5/15/1990
+Acquired: 3/22/2010
+Donated By: Universal
+Description: Avatar
+Length: 2.00 hours 45.00 minutes
+Genre: Fantasy
+Medium: Digital
+Value: $1.60
+
+Artist: Mozart
+Created: 5/15/1990
+Acquired: 3/22/2010
+Donated By: Opera House
+Description: Requiem
+Performed By: Orchestra
+Length: 2.00 hours 45.00 minutes
+Medium: MusicDigital
+Genre: Classical
+Value: $5775.00
+
+Artist: Tolkien
+Created: 5/15/1990
+Acquired: 3/22/2010
+Donated By: Library
+Description: The Hobbit
+Number of Pages: 310
+Genre: NovelValue: $108.50
+
