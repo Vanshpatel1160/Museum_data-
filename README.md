@@ -16,6 +16,7 @@ This C++ project models a virtual museum that stores and manages multiple types 
 - Dance performances
 - Films
 - Music
+- WrittenWord
 
 Each type of artwork is represented by its own subclass that inherits from an abstract base class `ArtWork`.
 
@@ -24,7 +25,7 @@ Each type of artwork is represented by its own subclass that inherits from an ab
 ##  Features Implemented
 
 -  **Abstract Base Class**: `ArtWork` with pure virtual `toString()` and `value()`
--  **Subclasses**: `Painting`, `Sculpture`, `Dance`, `Film`, `Music`
+-  **Subclasses**: `Painting`, `Sculpture`, `Dance`, `Film`, `Music`,`WrittenWord`
 -  **Helper Classes**: `Date`, `Time`
 -  **Operator Overloading**:
   - Stream output: `operator<<`
@@ -52,6 +53,7 @@ Each type of artwork is represented by its own subclass that inherits from an ab
 | `Dance.h`  | Dance subclass |
 | `Film.h`  | Film subclass |
 | `Music.h`  | Music subclass |
+|`WrittenWord.h` | WrittenWord subclass |
 | `Time.h` | Helper class for durations |
 | `Date.h` | Helper class for dates |
 | `MuseumInventory.txt` | Output file (generated at runtime) |
